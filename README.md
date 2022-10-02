@@ -1,6 +1,6 @@
   - 👋 Hi, I’m @Emirhan-Denizyol
 - 👀 I’m interested in ..     
- 🌱 I’m currently learnin JAVA ve  yapay zeka 
+ 🌱 I’m currently learnin JAVA ve AI. 
 - 💞️ I’m looking to collaborate on ... 
  📫 How to reach me ..Gmail : emirhandenizyol37@gmail.com
 
